@@ -1,2 +1,7 @@
 # hello-world
-repository
+
+Learning: 
+-HTML
+-CSS
+-JavaScript
+-Ruby
